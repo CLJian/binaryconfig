@@ -2,5 +2,5 @@
 configuration_env: dev
 code_repo_url: ssh://git@git.5th.im:2222/longbridge-app/LBSpec.git
 binary_repo_url: ssh://git@git.5th.im:2222/long-bridge-ios/lb-binary-spec.git
-binary_download_url:http://ios.dev.longbridge.com/frameworks/%s/%s/zip
+binary_download_url: http://ios.dev.longbridge.com/frameworks/%s/%s/zip
 download_file_type: zip
